@@ -1,0 +1,16 @@
+\html
+input value & labal for
+
+\css
+https://ithelp.ithome.com.tw/articles/10212202
+父
+position: relative;
+  子
+  position: absolute;
+  bottom: 0;
+https://ithelp.ithome.com.tw/m/articles/10243882
+
+\js
+innerHTML
+
+https://youtu.be/uDeb2iwZMkA?list=PLL5taXRLzd89hR7zTiog7kjYCrHN_n7IE&t=3245
